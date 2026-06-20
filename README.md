@@ -245,3 +245,9 @@ Potential extensions of this work include:
 ## Author
 
 Sneha Galimotu
+                                                                                                                                                                  ## Data Availability
+
+The original dataset (GSE241385) and processed .h5ad files are not included in this repository because of GitHub file size limitations.
+
+Dataset source:
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE241385                    
