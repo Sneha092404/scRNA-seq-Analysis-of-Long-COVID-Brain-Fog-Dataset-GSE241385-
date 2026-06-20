@@ -245,5 +245,3 @@ Potential extensions of this work include:
 ## Author
 
 Sneha Galimotu
-
-
