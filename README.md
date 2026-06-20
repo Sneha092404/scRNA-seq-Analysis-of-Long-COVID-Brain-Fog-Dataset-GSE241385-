@@ -243,10 +243,8 @@ Potential extensions of this work include:
 ---
 
 ## Author
-
-Sneha Galimotu
-                                                                                                                                                                  ## Data Availability
-
+ sneha galimotu                                                                                                                                                        
+##Data Avalability
 The original dataset (GSE241385) and processed .h5ad files are not included in this repository because of GitHub file size limitations.
 
 Dataset source:
